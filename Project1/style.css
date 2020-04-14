@@ -60,6 +60,10 @@ nav a {
     padding-right: 10px;
 }
 
+.maps {
+    padding-bottom: 100px;
+}
+
 footer {
     background-color: rgba(0, 0, 0, 0.6);
     padding-top: 50px;
